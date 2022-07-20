@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "jeffnithelp",
+    "slug": "jeffnithelp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
